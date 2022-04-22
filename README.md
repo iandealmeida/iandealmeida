@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá 👋
+
+Thank you for visiting my GitHub profile.. Here's a little info about me:
+
+I'm an import/export specialist, working hard to explore my interests in IT, and hopefully make a career change to this area.
+
+- 🔭 I’m currently working on the Carrefour Web Developer bootcamp...
+- 🌱 I’m currently learning SCRUM, HTML, CSS3, Javascript, ReactJS, JAVA/Springboot, SQL
+- 👯 I’m looking to collaborate on simple projects in the areas above
 
 <!--
 **iandealmeida/iandealmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
